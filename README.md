@@ -1,0 +1,2 @@
+# pypate
+Python package template
