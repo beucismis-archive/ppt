@@ -1,2 +1,2 @@
-# pypate
+# ppt
 Python package template
